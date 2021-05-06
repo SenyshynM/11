@@ -1,0 +1,4 @@
+﻿  11.3.cpp
+E:\унік\Алгоритмізація і програмування\11\11.3\11.3\11.3.cpp(226,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\унік\Алгоритмізація і програмування\11\11.3\11.3\11.3.cpp(268,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  11.3.vcxproj -> E:\унік\Алгоритмізація і програмування\11\11.3\Debug\11.3.exe
